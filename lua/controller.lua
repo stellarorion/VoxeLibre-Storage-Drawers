@@ -48,7 +48,7 @@ local techage_loaded = core.get_modpath("techage") and techage
 
 local function controller_formspec(pos)
 	local formspec =
-		"size[9,8.5]"..
+		"size[10,9]"..
 		drawers.gui_bg..
 		drawers.gui_slots..
 		"label[0,0;" .. S("Drawer Controller") .. "]" ..
