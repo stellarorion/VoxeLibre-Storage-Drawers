@@ -1,4 +1,4 @@
-# Minetest Mod Storage Drawers
+# Voxelibre Mod Storage Drawers
 
 Version 0.0.1, License: MIT
 
