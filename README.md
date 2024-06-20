@@ -1,8 +1,5 @@
 # Minetest Mod Storage Drawers
 
-[![ContentDB](https://content.minetest.net/packages/LNJ/drawers/shields/downloads/)](https://content.minetest.net/packages/LNJ/drawers/)
-![](https://github.com/minetest-mods/drawers/workflows/luacheck/badge.svg)
-
 Version 0.0.1, License: MIT
 
 ## Purpose of this fork
