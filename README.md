@@ -25,10 +25,6 @@ crafted by steel, gold, obsidian, diamonds or mithril.
 This mod requires Minetest 5.0 or later. The `default` mod from MTG or the
 MineClone 2 mods are only optional dependencies for crafting recipes.
 
-## Bug reports and suggestions
-You can report bugs and suggest ideas on [GitHub](http://github.com/lnj2/drawers/issues/new),
-alternatively you can also [email](mailto:git@lnj.li) me.
-
 ## Credits
 #### Thanks to:
 * Justin Aquadro ([@jaquadro](http://github.com/jaquadro)), developer of the
